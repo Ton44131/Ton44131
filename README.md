@@ -5,10 +5,11 @@
 - 😄 Pronomes: ele/dele
 
 <div align="center">
-  <a href="https://github.com/Ton44131">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ton44131&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ton44131&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<a href="https://github.com/Ton44131">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ton44131&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ton44131&layout=compact&langs_count=16&theme=dracula&cache_seconds=1800"/>
+</a>
+
 </div>
 <h3 align="center">🚀 Tecnologias e Linguagens que Utilizo</h3>
 
